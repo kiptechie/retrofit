@@ -71,7 +71,7 @@
     <jaxb.version>2.3.1</jaxb.version>
 
     <!-- Sample Dependencies -->
-    <jsoup.version>1.12.1</jsoup.version>
+    <jsoup.version>1.14.3</jsoup.version>
 
     <!-- Test Dependencies -->
     <junit.version>4.12</junit.version>
