@@ -58,7 +58,7 @@
     <rxjava.version>1.3.8</rxjava.version>
     <rxjava2.version>2.0.0</rxjava2.version>
     <reactivestreams.version>1.0.3</reactivestreams.version>
-    <guava.version>28.1-jre</guava.version>
+    <guava.version>28.2-jre</guava.version>
     <scala.version>2.13.1</scala.version>
 
     <!-- Converter Dependencies -->
